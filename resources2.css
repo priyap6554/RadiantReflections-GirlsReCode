@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <title>Resources Page | Team Tortle</title>
+    <link rel="stylesheet" href="resources.css">
+    <link rel="stylesheet" href="resources2.css">
+    <a href="#" class="logo">Radiant Reflections</a> 
+  <!-- https://devpost.com/software/531968/joins/AEqFRSpsZS2XxngpGawgEw --->
+  <header class="header">
+    <a href="index.html" class="logo">Radiant Reflections</a>
+    <nav class="nav-items">
+      <a href="index.html">Home</a>
+      <a href="resources.html">Resources</a>
+      <script src="script.js"></script>
+      <a href="calendar.html">Calendar</a>
+      <a href="quiz.html">Quiz</a>
+    </nav>
+    </header>
+</head>
+<body>
+    <main role="main">
+        <article id="resources" class="horizontal">
+            <section>
+                <!-- Slide 1 -->
+                <span class="background" style="background-image: url('images/4.jpg');background-size: cover;background-position:top;"></span>
+                <div class="wrap">
+                    <h1><strong>Mental Health Resources</strong></h1>
+                    <p class="text-intro">
+                        <strong></strong> Learn about <strong>mental health</strong> here!<br>
+                        Scroll to navigate different resources from books, podcasts, online therapy, and more!
+                    </p>
+                    <a href="#slide=2" class="button zoomIn">
+                        Scroll
+                    </a>
+                </div>
+            </section>
+            <section>
+                <!-- Slide 2 -->
+               
+                <div class="wrap size-50 aligncenter">
+                    <h2><strong>Learn More about Mental Health</strong></h2>
+                    <p class="text-intro">
+                        Here are some websites to start
+                    </p>
+                    <div class="bg-white shadow">
+                        <ul class="flexblock reasons">
+                            <li>
+                                <h2>Rumie</h2>
+                                <p>Place to learn about mental health more and factors that can trigger anxiety and depression. Motivational videos and learning how to keep healthy boundaries.
+</p>
+                            </li>
+
+                            <li>
+                                <h2>Greatist</h2>
+                                <p>Health and wellness website- talks about how stress can affect the body and how to manage it. </p>
+                            </li>
+                            <li>
+                                <h2>Women’s Health</h2>
+                                <p>Fitness, recipes, and mental health articles for information and improving health and wellness.</p>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!--Slide 3-->
+            <section>
+                <div class="wrap">
+                    <div class="grid vertical-align">
+                        <div class="column">
+                            <h3><strong>Books</strong></h3>
+                            <p>The Art of Thinking Clearly by Rolf Dobelli</p>
+                          <p>The Mind-Gut Connection by Emeran Mayer</p>
+                          
+                          
+                        </div>
+                        <div class="column">
+                            <img src="images/stack.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Slide 4 -->
+            <section>
+                <div class="wrap">
+                    <h2>Podcasts</h2>
+                    <ul class="flexblock features">
+                        <li>
+                            <div>
+                                <h2 class="aligncenter">
+                                    The Hardcore Self Help Podcast with Robert Duff
+                                </h2>
+                                <img src="images/web.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h2 class="aligncenter">
+                                    Not Another Anxiety Show with Kelli Walker
+                                </h2>
+                                <img src="images/mobile.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h2 class="aligncenter">
+                                    Unlocking Us with Brene Brown
+                                </h2>
+                                <img src="images/ux.png" alt="">
+                            </div>
+                        </li>
+                    </ul>
+                </div> 
+            </section>
+
+
+            <!-- Slide 5 -->
+            <section>
+                <div class="wrap">
+                    <h2><strong>Instagram Accounts to Follow for Wellness</strong></h2>
+                    <p>Daily Motivation and Wellness Tips</p>
+
+                    <ul class="flexblock gallery">
+                        <li>
+                            <a href="">
+                                <figure>
+                                    <img src="" alt="">
+                                    <figcaption>
+                                        <h2 class="aligncenter">@headspace</h2>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <figure>
+                                    <img src="" alt="">
+                                    <figcaption>
+                                        <h2 class="aligncenter">@sadgirlsclub</h2>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <figure>
+                                    <img src="" alt="">
+                                    <figcaption>
+                                        <h2 class="aligncenter">@mentl.sesh</h2>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <figure>
+                                    <img src="" alt="">
+                                    <figcaption>
+                                        <h2 class="aligncenter">@dearmyanxiety</h2>
+                                    
+    <script src="resources.js"></script>
+    <script>window.ws=new WebSlides();</script>
+</body>
+</html>
